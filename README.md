@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @zakariahere
+- 👀 I’m interested in java, and curious about blockchain technologies
+- 🌱 I’m currently working with Spring / Hibernate / and a bit of angular
+- 📫 How to reach me zakaria.bouazza10@gmail.com
